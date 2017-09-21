@@ -1,24 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+  <head>
 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-Welcome to your Rails project on Cloud9 IDE!
+    <title> AeChe Inc. </title>
 
-To get started, just do the following:
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
+    <!-- Custom styles for this template -->
+    <link href="css/business-frontpage.css" rel="stylesheet">
 
-Happy coding!
-The Cloud9 IDE team
+     <!-- 이거 폰트!! -->
+    <link href="https://fonts.googleapis.com/css?family=Archivo+Black|Roboto" rel="stylesheet">
 
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+    <style>
+      body {
+        font-family: 'Roboto', sans-serif; }
+    </style>
+     <!-- 폰트 끝! -->
+  </head>
+  
+<body>
+ <!-- Header with Background Image -->
+    <header class="business-header">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <h1 class="display-3 text-center text-white mt-4">  </h1>
+          </div>
+        </div>
+      </div>
+    </header>
+    </body>
